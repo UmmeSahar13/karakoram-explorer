@@ -29,7 +29,7 @@ docker build -t karakoram-app .
 docker run -d -p 8080:80 --name umme-sahar-site karakoram-app
 
 Author
-Umme Sahar (UmmeSahar13) Aspiring DevOps Engineer & Web Developer
+Umme Sahars (UmmeSahar13) (Malaika0Imran) Aspiring DevOps Engineer & Web Developer
 Designed with ❤️ to celebrate the beauty of Pakistan.
 
 1. **Clone the repository:**
